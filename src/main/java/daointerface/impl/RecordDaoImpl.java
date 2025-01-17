@@ -8,6 +8,9 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Provides concert  CRUD implementation for Records
+ */
 public class RecordDaoImpl extends ConnectionDAO implements RecordDao {
 
 
